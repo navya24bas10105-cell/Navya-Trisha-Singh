@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 3: Disk and Permission Auditor
-# Author: Aryan Singh | Roll: 24MIM10121
+# Author: Navya Trisha Singh | Roll: 24BAS10105
 # Course: Open Source Software | Chosen Software: Python
 # Description: Loops through important Linux directories and reports their
 #              size, owner, and permissions. Also checks Python-specific
