@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 5: The Open Source Manifesto Generator
-# Author: Aryan Singh | Roll: 24MIM10121
+# Author: Navya Trisha Singh | Roll: 24BAS10105
 # Course: Open Source Software | Chosen Software: Python
 # Description: Asks the user 3 interactive questions and generates a
 #              personalised open source philosophy statement, saved to a file.
