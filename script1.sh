@@ -1,15 +1,15 @@
 #!/bin/bash
 # =============================================================================
 # Script 1: System Identity Report
-# Author: Aryan Singh | Roll: 24MIM10121
+# Author: Navya Trisha Singh | Roll: 24BAS10105
 # Course: Open Source Software | Chosen Software: Python
 # Description: Displays a welcome screen with system information and
 #              details about the open-source OS running beneath Python.
 # =============================================================================
 
 # --- Student Info (fill these in) ---
-STUDENT_NAME="Aryan Singh"
-ROLL_NUMBER="24MIM10121"
+STUDENT_NAME="Navya Trisha Singh"
+ROLL_NUMBER="24BAS10105"
 SOFTWARE_CHOICE="Python"
 
 # --- Gather system information using command substitution ---
