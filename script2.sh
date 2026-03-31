@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 2: FOSS Package Inspector
-# Author: Aryan Singh | Roll: 24MIM10121
+# Author: Navya Trisha Singh | Roll: 24BAS10105
 # Course: Open Source Software | Chosen Software: Python
 # Description: Checks if Python (and related FOSS packages) are installed,
 #              retrieves version/license info, and prints a philosophy note
